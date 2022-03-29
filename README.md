@@ -19,7 +19,7 @@ Figure 2: The visualization of the proposed 5 tasks.
 ** main results**
 
 All the results are pre-trained for 300 epochs using Vit-base as default.
-
+<table><tbody>
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
 <th valign="bottom"></th>
