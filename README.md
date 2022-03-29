@@ -16,7 +16,7 @@ Figure 1: Pipeline of token-based pre-training.
 Figure 2: The visualization of the proposed 5 tasks.
 </p>
 
-** main results**
+# main results
 
 All the results are pre-trained for 300 epochs using Vit-base as default.
 <table><tbody>
@@ -29,7 +29,7 @@ All the results are pre-trained for 300 epochs using Vit-base as default.
 <th valign="bottom">blurred</th>
 <th valign="bottom">de-colorized</th>
 <!-- TABLE BODY -->
-<tr><td align="left">FT</td>
+<tr><td align="left">finetune</td>
 <td align="center"><tt>82.7</tt></td>
 <td align="center"><tt>82.5</tt></td>
 <td align="center"><tt>82.1</tt></td>
@@ -37,5 +37,7 @@ All the results are pre-trained for 300 epochs using Vit-base as default.
 <td align="center"><tt>81.4</tt></td>
 </tr>
 </tbody></table>
+
+
 
 The code will come before 3.31
