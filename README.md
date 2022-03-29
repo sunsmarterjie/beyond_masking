@@ -56,7 +56,7 @@ We note that the integrated version dose not require extra computational cost.
 
 ### Effiencicy
 <p align="center">
-  <img src="img/eff.png" alt="effiencicy" width="50%">
+  <img src="img/eff.png" alt="effiencicy" width="40%">
 </p>
 <p align="center">
 Figure 3: Efficiency of the integrated task.
