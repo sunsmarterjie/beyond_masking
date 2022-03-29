@@ -54,5 +54,13 @@ All the results are pre-trained for 300 epochs using Vit-base as default.
 </tbody></table>
 We note that the integrated version dose not require extra computational cost.
 
+### Effiencicy
+<p align="center">
+  <img src="img/eff.png" alt="effiencicy" width="60%">
+</p>
+<p align="center">
+Figure 3: Efficiency of the integrated task.
+</p>
+
 
 The code will come before 3.31
