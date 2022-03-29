@@ -38,5 +38,21 @@ All the results are pre-trained for 300 epochs using Vit-base as default.
 </tr>
 </tbody></table>
 
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom"></th>
+<th valign="bottom">zoomed-in (a)</th>
+<th valign="bottom">mask (m)</th>
+<th valign="bottom">(a)+(m)</th>
+<!-- TABLE BODY -->
+<tr><td align="left">finetune</td>
+<td align="center"><tt>82.7</tt></td>
+<td align="center"><tt>82.9</tt></td>
+<td align="center"><tt>83.2</tt></td>
+</tr>
+</tbody></table>
+We note that the integrated version dose not require extra computational cost.
+
 
 The code will come before 3.31
