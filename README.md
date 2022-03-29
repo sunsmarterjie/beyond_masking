@@ -2,4 +2,4 @@
 Beyond Masking: Demystifying Token-Based Pre-Training for Vision Transformers
 
 
-The code will come soon
+The code will come before 3.31
