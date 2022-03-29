@@ -39,5 +39,4 @@ All the results are pre-trained for 300 epochs using Vit-base as default.
 </tbody></table>
 
 
-
 The code will come before 3.31
