@@ -1,4 +1,4 @@
-# beyond_masking
+### beyond_masking
 **[Beyond Masking: Demystifying Token-Based Pre-Training for Vision Transformers](https://arxiv.org/pdf/2203.14313.pdf)**
 
 
@@ -16,7 +16,7 @@ Figure 1: Pipeline of token-based pre-training.
 Figure 2: The visualization of the proposed 5 tasks.
 </p>
 
-# main results
+### main results
 
 All the results are pre-trained for 300 epochs using Vit-base as default.
 <table><tbody>
