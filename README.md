@@ -1,6 +1,8 @@
 ### beyond_masking
 **[Beyond Masking: Demystifying Token-Based Pre-Training for Vision Transformers](https://arxiv.org/pdf/2203.14313.pdf)**
 
+The code will come before 3.31
+
 
 <p align="center">
   <img src="img/pipeline.png" alt="beyond masking" width="70%">
@@ -62,5 +64,3 @@ We note that the integrated version dose not require extra computational cost.
 Figure 3: Efficiency of the integrated task.
 </p>
 
-
-The code will come before 3.31
